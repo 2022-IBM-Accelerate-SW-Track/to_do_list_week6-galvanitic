@@ -1,7 +1,1 @@
-{
-  "users": {
-    "user": {
-      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
-    }
-  }
-}
+{"users":{"user":{"passwordHash":"5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"},"rodolfo":{"passwordHash":"4bce9f4eabe55b4e3fa8869475a636776dc156cd38f432c8df2f12b626a21869"}}}
